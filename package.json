@@ -1,17 +1,17 @@
 {
-  "name": "dengfenglai",
+  "name": "vuepress-theme-hope-template",
   "version": "2.0.0",
   "description": "A project of vuepress-theme-hope",
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "docs:build": "vuepress build src",
-    "docs:clean-dev": "vuepress dev src --clean-cache",
-    "docs:dev": "vuepress dev src",
-    "docs:update-package": "pnpm dlx vp-update"
+    "docs:build": "vuepress-vite build src",
+    "docs:clean-dev": "vuepress-vite dev src --clean-cache",
+    "docs:dev": "vuepress-vite dev src",
+    "docs:update-package": "npx vp-update"
   },
   "devDependencies": {
-    "@vuepress/client": "2.0.0-rc.7",
+    "@vuepress/bundler-vite": "2.0.0-rc.7",
     "vue": "^3.4.18",
     "vuepress": "2.0.0-rc.7",
     "vuepress-theme-hope": "2.0.0-rc.23"
