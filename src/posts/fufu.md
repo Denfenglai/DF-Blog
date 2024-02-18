@@ -2,6 +2,7 @@
 cover: /img/那芙.png
 icon: pic
 date: 2023-11-17
+article: false
 category:
   - 插画
 tag:
