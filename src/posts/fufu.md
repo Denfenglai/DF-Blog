@@ -1,9 +1,9 @@
 ---
 cover: /img/那芙.png
-icon: pen-to-square
+icon: pic
 date: 2023-11-17
 category:
-  - 原神
+  - 插画
 tag:
   - 二创
   - 画师
