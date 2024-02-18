@@ -29,7 +29,8 @@ export default hopeTheme({
   sidebar,
 
   footer: "DengFengLai",
-
+  
+  // 显示脚页
   displayFooter: true,
 
   blog: {
@@ -73,7 +74,7 @@ export default hopeTheme({
         mark: true, //标记        
         align: true,
         attrs: true,
-        demo: true,
+        // demo: true,
         include: true,
 
       playground: {

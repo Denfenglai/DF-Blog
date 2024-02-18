@@ -8,10 +8,9 @@ tag:
   - Termux
 ---
 # Termux上安装Linux容器
-
+<!-- more -->
 >在这之前请先确保已安装Termux或ZeroTermux   
 >[<HopeIcon icon="article" />点击前往安装](/posts/termux.md)   
-    
 
 ### 1.更新软件源
 ```bash
