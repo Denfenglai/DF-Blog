@@ -2,6 +2,7 @@
 cover: /img/huiye.jpg
 icon: actions
 date: 2023-11-15
+article: false
 category:
   - 日漫
 tag:
