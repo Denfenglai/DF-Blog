@@ -23,7 +23,7 @@ projects:
   - icon: friend
     name: Yunzai-Bot文档
     desc: XxxX
-    link: https://hanxuan.cc/
+    link: https://yunzai.icu/
 
   - icon: link
     name: Yunzai-Bot索引库
