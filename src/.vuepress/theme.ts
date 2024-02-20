@@ -60,9 +60,15 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
+    components: {
+        // 组件
+        components: [
+          "BiliBili",
+        ],
+      },
     copyCode: {
         showInMobile: true
-       }, //在移动端启动复制代码
+       }, //在移动端启用复制代码
       mdEnhance: {
         hint: true,
         VPCard: true,//启用卡片
@@ -74,12 +80,14 @@ export default hopeTheme({
         mark: true, //标记        
         align: true,
         attrs: true,
-        // demo: true,
+        demo: true,
         include: true,
 
       playground: {
         presets: ["ts", "vue"],
       },
+      
+
       
       stylize: [
         {
