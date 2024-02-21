@@ -60,6 +60,11 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
+    /** 启动评论服务 */
+    comment: {
+        provider: "Waline",
+        serverURL: "https://waline-two-vert.vercel.app/",
+      },
     components: {
         // 组件
         components: [
@@ -72,7 +77,7 @@ export default hopeTheme({
       mdEnhance: {
         hint: true,
         VPCard: true,//启用卡片
-        figure: true,// 启用 figure
+        figure: true,// 启用 figure 图片描述
         imgLazyload: true, // 启用图片懒加载
         imgMark: true, // 启用图片标记
         imgSize: true,// 启用图片大小
