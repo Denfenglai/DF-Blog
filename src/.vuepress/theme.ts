@@ -63,7 +63,7 @@ export default hopeTheme({
     /** 启动评论服务 */
     comment: {
         provider: "Waline",
-        serverURL: "https://waline-two-vert.vercel.app/",
+        serverURL: "https://waline.dengfenglai.cloud/",
       },
     components: {
         // 组件
@@ -75,26 +75,31 @@ export default hopeTheme({
         showInMobile: true
        }, //在移动端启用复制代码
       mdEnhance: {
-        hint: true,
-        VPCard: true,//启用卡片
-        figure: true,// 启用 figure 图片描述
+        hint: true,	       // 提示容器
+        VPCard: true,      // 启用卡片
+        figure: true,      // 启用 figure 图片描述
         imgLazyload: true, // 启用图片懒加载
-        imgMark: true, // 启用图片标记
-        imgSize: true,// 启用图片大小
-        codetabs: true, // 多行代码块
-        mark: true, //标记        
-        align: true,
-        attrs: true,
-        demo: true,
-        include: true,
+        imgMark: true,     // 启用图片标记
+        imgSize: true,     // 启用图片大小
+        codetabs: true,    // 多行代码块
+        mark: true,        //标记        
+        align: true,    // 自定义对齐
+        tasklist: true, // 任务列表
+        attrs: true,    // 属性支持
+        demo: true,     // 代码演示
+        include: true,  // 导入文件
+        footnote: true, // 启用脚注
+        sub: true,
+        sup: true,
+        tabs: true,
+        vPre: true,
 
       playground: {
         presets: ["ts", "vue"],
       },
       
-
-      
       stylize: [
+      // 样式化
         {
           matcher: "Recommended",
           replacer: ({ tag }) => {
@@ -103,14 +108,10 @@ export default hopeTheme({
                 tag: "Badge",
                 attrs: { type: "tip" },
                 content: "Recommended",
-              };
+            };
           },
         },
       ],
-      sub: true,
-      sup: true,
-      tabs: true,
-      vPre: true,
     },
   },
 });
