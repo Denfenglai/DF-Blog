@@ -13,8 +13,8 @@ tag:
 <VPCard
 title="樱花动漫"
 desc="专注动漫的门户网站"
-logo="//m.iyinghua.io/js/20180601/favicon.ico"
-link="//m.iyinghua.io/"
+logo="http://m.iyinghua.io/js/20180601/favicon.ico"
+link="http://m.iyinghua.io/"
 background="rgba(255, 182, 193, 0.2)"
 />      
 
@@ -49,10 +49,10 @@ background="rgba(255, 182, 193, 0.2)"
 />
 
 - 类型：Web   
-- 优点：不仅能看动漫还能免费看电影、电视剧   
-- 缺点：速度略慢，资源不是很全，有点广告  
+- 优点：不仅能看动漫还能免费看电影、电视剧    
+- 缺点：速度略慢，动漫不是特别全，有点广告  
 注：播放过程中好像还会蹦出澳门威尼斯人。    
-- 综合评价：⭐⭐
+- 综合评价：⭐⭐⭐
 
 ---
 
