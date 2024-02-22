@@ -29,7 +29,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "DengFengLai",
+  footer: '<a href="https://app.netlify.com/sites/dengfenglaiblog/deploys"><img src="https://api.netlify.com/api/v1/badges/bc03644e-1ff9-4bda-9f24-a5cb3643b2b4/deploy-status" alt="Netlify Status"></a>',
   
   // 显示脚页
   displayFooter: true,

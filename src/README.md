@@ -40,5 +40,4 @@ projects:
     desc: 一起唠嗑，一起分享
     link: https://group.dengfenglai.cloud/
 
-footer: DengFengLai
 ---
