@@ -1,11 +1,11 @@
 ---
 icon: module
 title: 免费的看番软件/网站
-date: 2024-02-21
+date: 2024-02-23
 category:
   - 动漫
 tag:
-  - 网站
+  - 好用
   - ACG
   - 免费
 ---
