@@ -1,4 +1,5 @@
 import { hopeTheme } from "vuepress-theme-hope";
+import { componentsPlugin } from "vuepress-plugin-components";
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
@@ -69,6 +70,7 @@ export default hopeTheme({
         // 组件
         components: [
           "BiliBili",
+          "VPCard",
         ],
       },
     copyCode: {
@@ -76,7 +78,6 @@ export default hopeTheme({
        }, //在移动端启用复制代码
       mdEnhance: {
         hint: true,	       // 提示容器
-        VPCard: true,      // 启用卡片
         figure: true,      // 启用 figure 图片描述
         imgLazyload: true, // 启用图片懒加载
         imgMark: true,     // 启用图片标记
