@@ -35,7 +35,9 @@ export default hopeTheme({
   displayFooter: true,
 
   blog: {
-    intro: "/intro.html",
+    roundAvatar: true,
+    avatar: "https://q1.qlogo.cn/g?b=qq&s=0&nk=3139373986",
+    intro: "/",
     medias: {
       Baidu: "https://mr.baidu.com/r/19wFkMt0Gt2?f=cp&u=4d151be3e49afc29",
       BiliBili: "https://b23.tv/8sOJIMw",

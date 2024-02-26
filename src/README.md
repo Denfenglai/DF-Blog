@@ -5,7 +5,7 @@ icon: home
 bgImage: /img/loli.jpg
 bgImageDark: /img/dk.jpg
 title: 等风来
-heroImage: /logo.png
+heroImage: https://q1.qlogo.cn/g?b=qq&s=0&nk=3139373986
 heroText: 等风来
 heroFullScreen: true
 tagline: 「爱意随风起，风止意难平」
@@ -16,9 +16,9 @@ projects:
     link: https://ys.mihoyo.com/
 
   - icon: link
-    name: DF-Script
-    desc: 快捷安装Yunzai-Bot
-    link: https://dengfenglai.netlify.app/
+    name: DF-API
+    desc: 并无卵用
+    link: http://api.dengfenglai.cloud/
 
   - icon: friend
     name: Yunzai-Bot文档
