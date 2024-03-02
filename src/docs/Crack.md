@@ -22,6 +22,9 @@ star: true
 1. 此版本完全去除了内置的广告，因此==无法缓存离线和获取VIP==，介意勿用。
 :::
 
+### 问题反馈
+遇到问题可以在下方留言或[加入QQ群聊](//group.dengfenglai.cloud)
+    
 ### 更多软件
 - [囧次元](/acg/jocy.md)
 - [Omofun](/acg/omofun.md)
