@@ -36,6 +36,7 @@ export default hopeTheme({
 
   blog: {
     roundAvatar: true,
+    hotReload: true,
     avatar: "https://q1.qlogo.cn/g?b=qq&s=0&nk=3139373986",
     intro: "/",
     medias: {
