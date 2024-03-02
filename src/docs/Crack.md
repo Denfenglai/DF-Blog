@@ -1,18 +1,18 @@
 ---
 icon: app
-title: 破解版APP合集
+title: 软件APP合集
 date: 2024-03-02
-article: true
 category:
   - APP
 tag:
   - 破解
   - 软件
   - 手机
+sticky: 1
+star: true
 ---
 
 <!-- more -->
-
 ### 破解版APP合集
 
 ::: tip 前言
@@ -22,6 +22,7 @@ tag:
 1. 此版本完全去除了内置的广告，因此==无法缓存离线和获取VIP==，介意勿用。
 :::
 
+### 更多软件
 - [囧次元](/acg/jocy.md)
 - [Omofun](/acg/omofun.md)
 - [拷貝漫畫](/acg/copy.md)

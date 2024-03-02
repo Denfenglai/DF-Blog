@@ -18,7 +18,7 @@ tag:
 ---
 
 ### 下载安装包
-[123云盘](https://www.123pan.com/s/4vaiVv-FjxzH.html) | [备用下载](/apk/OmoFun.apk)
+[123云盘](https://www.123pan.com/s/4vaiVv-sjxzH.html) | [备用下载](/apk/OmoFun.apk)
 
 ::: warning 
 当前版本：`1.0.9`  
@@ -32,5 +32,4 @@ tag:
 
 ---
 
-### 更多破解版
 <!-- @include: ../docs/Crack.md{25-} -->

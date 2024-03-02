@@ -10,7 +10,7 @@ tag:
   - 纯爱
   - 喜剧
 star: true
-sticky: true
+sticky: 520
 ---
 
 # 动漫：辉夜大小姐想让我告白

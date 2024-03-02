@@ -13,12 +13,12 @@ tag:
 
 <!-- more -->
 
-<!-- @include: ../docs/Crack.md{18-23} -->
+<!-- @include: ../docs/Crack.md{18-24} -->
 
 ---
 
 ### 下载安装包
-[123云盘](https://www.123pan.com/s/4vaiVv-gjxzH.html) | [备用下载](/apk/囧次元.apk)
+[123云盘](https://www.123pan.com/s/4vaiVv-2jxzH.html) | [备用下载](/apk/囧次元.apk)
 
 ::: warning 
 当前版本：`1.5.6.8`  
@@ -28,9 +28,9 @@ tag:
 - 后续升级官方版本时需要卸载已安装的破解版本。
 - 使用遇到问题或修复可以评论留言。
 - 建议收藏本页以便同步官方更新~
+
 :::
 
 ---
 
-### 更多破解版
 <!-- @include: ../docs/Crack.md{25-} -->

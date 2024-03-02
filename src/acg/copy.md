@@ -17,7 +17,7 @@ tag:
 
 ---
 ### 下载安装包
-[123云盘](https://www.123pan.com/s/4vaiVv-YjxzH.html) | [备用下载](/apk/拷貝漫畫.apk)
+[123云盘](https://www.123pan.com/s/4vaiVv-njxzH.html) | [备用下载](/apk/拷貝漫畫.apk)
 
 ::: warning 
 当前版本：`2.1.7`  
@@ -31,5 +31,4 @@ tag:
 
 ---
 
-### 更多破解版
 <!-- @include: ../docs/Crack.md{25-} -->
