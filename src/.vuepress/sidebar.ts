@@ -4,9 +4,15 @@ export default sidebar({
   "/": [
     "",
     {
+      text: "ACG",
+      icon: "book",
+      prefix: "acg/",
+      children: "structure",
+    },
+    {
       text: "文章",
       icon: "book",
-      prefix: "posts/",
+      prefix: "docs/",
       children: "structure",
     },
   ],
