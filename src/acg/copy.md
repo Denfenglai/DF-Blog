@@ -13,7 +13,7 @@ tag:
 
 <!-- more -->
 
-<!-- @include: ../docs/Crack.md{18-23} -->
+<!-- @include: ../docs/crack.md{18-23} -->
 
 ---
 ### 下载安装包
@@ -31,4 +31,4 @@ tag:
 
 ---
 
-<!-- @include: ../docs/Crack.md{25-} -->
+<!-- @include: ../docs/crack.md{25-} -->

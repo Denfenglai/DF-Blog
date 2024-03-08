@@ -96,4 +96,4 @@ background="rgba(255, 182, 193, 0.2)"
 
 
 ### 更多软件
-<!-- @include: ../docs/Crack.md{25-} -->
+<!-- @include: ../docs/crack.md{25-} -->

@@ -13,7 +13,7 @@ tag:
 
 <!-- more -->
 
-<!-- @include: ../docs/Crack.md{18-24} -->
+<!-- @include: ../docs/crack.md{18-24} -->
 
 ---
 
@@ -33,4 +33,4 @@ tag:
 
 ---
 
-<!-- @include: ../docs/Crack.md{25-} -->
+<!-- @include: ../docs/crack.md{25-} -->
