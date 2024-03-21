@@ -67,7 +67,7 @@ export default hopeTheme({
     /** 启动评论服务 */
     comment: {
         provider: "Waline",
-        serverURL: "https://waline.dengfenglai.cloud/",
+        serverURL: "https://waline.dengfenglai.icu/",
       },
     components: {
         // 组件
