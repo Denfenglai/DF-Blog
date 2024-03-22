@@ -2,10 +2,9 @@
 home: true
 layout: BlogHome
 icon: home
-bgImage: /img/loli.jpg
-bgImageDark: /img/dk.jpg
+bgImage: /img/picture/6.jpg
+bgImageDark: /img/picture/7.jpg
 title: 等风来
-heroImage: https://q1.qlogo.cn/g?b=qq&s=0&nk=3139373986
 heroText: 等风来
 heroFullScreen: true
 tagline: 「爱意随风起，风止意难平」
@@ -16,9 +15,9 @@ projects:
     link: https://ys.mihoyo.com/
 
   - icon: link
-    name: DF-API
-    desc: 并无卵用
-    link: http://api.dengfenglai.cloud/
+    name: Yenai-Plugin
+    desc: 椰羊的奶
+    link: https://gitee.com/yeyang52/yenai-plugin
 
   - icon: friend
     name: Yunzai-Bot文档
@@ -38,6 +37,6 @@ projects:
   - icon: /logo/QQ.png
     name: 加入QQ交流群
     desc: 一起唠嗑，一起分享
-    link: https://group.dengfenglai.cloud/
+    link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=AWfgU0wF5dTzS9NjCJf9QWgPdRfLjqEP&authKey=7BI88Z3dPTquqcnQxhTm%2FmgV6bsHKRXO1aqcA7gjA2%2FFwAG%2BltmrrouTI1WhfiE9&noverify=0&group_code=559805580
 
 ---
