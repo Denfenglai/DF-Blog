@@ -77,9 +77,12 @@ export default hopeTheme({
         ],
       },
     copyCode: {
-        showInMobile: true
-       }, //在移动端启用复制代码
+        showInMobile: true //在移动端启用复制代码
+       }, 
       mdEnhance: {
+        /* MdEnhance 插件配置
+         * https://theme-hope.vuejs.press/zh/config/plugins/md-enhance.html 
+         */
         hint: true,	       // 提示容器
         figure: true,      // 启用 figure 图片描述
         imgLazyload: true, // 启用图片懒加载
@@ -93,10 +96,10 @@ export default hopeTheme({
         demo: true,     // 代码演示
         include: true,  // 导入文件
         footnote: true, // 启用脚注
-        sub: true,
-        sup: true,
-        tabs: true,
-        vPre: true,
+        sub: true,	    // 启用下角标
+        sup: true,	    // 启用上角标
+        tabs: true,     // 启用选项卡
+        vPre: true,     // 启用 v-pre 容器
 
       playground: {
         presets: ["ts", "vue"],
