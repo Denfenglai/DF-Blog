@@ -13,10 +13,10 @@ else
     apt install fish -y
 fi
 
-# 设置 fish 为已知 shell
-echo /usr/bin/fish | sudo tee -a /etc/shells
+
+
 # 设置 fish 为默认 shell
-chsh -s /usr/bin/fish
+echo "shell=/data/data/com.termux/files/usr/bin/fish" > ~/.termux/termux.properties
 
 # 提取bash配置文件中未被注释的别名定义，并检查是否正确
 while IFS= read -r line; do
@@ -40,7 +40,7 @@ clear
 echo -e "\e[1;33m为您安装一些常用依赖和软件包\e[0m"
 sleep 3
 
-apt install -y git nano curl wget btop htop 
+apt install -y git nano curl wget htop 
 
 sleep 0.5
 clear
