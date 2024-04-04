@@ -20,7 +20,6 @@ while IFS= read -r line; do
         alias_name=$(echo "$line" | awk '{print $2}' | sed 's/=.*//')
         alias_command=$(echo "$line" | awk -F"'" '{print $2}')
         echo "abbr -a $alias_name '$alias_command'" >> ~/.config/fish/config.fish
-        fi
     fi
 done < <(grep '^alias ' ~/.bashrc | grep -v '^#' | grep -vE '^#')
 
