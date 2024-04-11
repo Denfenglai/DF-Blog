@@ -36,7 +36,7 @@ Tyranor 是一款可以很好的模拟 Artemis Engine 的模拟器，但 Tyranor
 首次打开APP，首先您需要授予`全部文件访问权限`，您可以在设置中开启或者可以在软件内扫描游戏时弹出的窗口中授予，授权教程请自行搜索。
 
 ## 🫧扫描游戏
-Tyranor默认的游戏存放路径为`/storage/emulated/0/Tyranor`，你解压后的Kirikiroid2游戏和Artemis Engine游戏会自动被扫码并呈现在APP中的`添加`界面里\
+Tyranor默认的游戏存放路径为`/storage/emulated/0/Tyranor`，你解压后的Kirikiroid2游戏和Artemis Engine游戏会自动被扫描并呈现在APP中的`添加`界面里\
 当然你可以通过`其他→Tyranor设置→默认文件夹`设置和添加你自己的游戏存放目录。
 
 ## 🎮开始游戏
