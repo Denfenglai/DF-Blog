@@ -30,3 +30,5 @@ star: true
 - [Omofun](/acg/omofun.md)
 - [拷貝漫畫](/acg/copy.md)
 - [稀饭动漫](/acg/xifan.md)
+- [Tyranor模拟器](/acg/tyranor.md)
+- [Kirikiroid2模拟器](/acg/krkr2.md)

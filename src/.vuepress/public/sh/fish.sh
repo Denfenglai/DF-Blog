@@ -24,7 +24,6 @@ while IFS= read -r line; do
 done < <(grep '^alias ' ~/.bashrc | grep -v '^#' | grep -vE '^#')
 
 echo -e "\e[1;32m别名已成功转移至 fish 配置文件\e[0m"
-echo 'fish' >> ~/.bashrc
 
 sleep 2
 clear
