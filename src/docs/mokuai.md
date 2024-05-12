@@ -18,6 +18,7 @@ tag:
 :::
 
 ::: important Ciallo～(∠・ω< )⌒☆
+- [⭕💰模块资源](https://alist.botqsign.icu/)
 - [真寻の资源合集](https://www.123pan.com/s/d2riVv-f6KKh.html)
 :::
 
@@ -36,7 +37,8 @@ tag:
 - `XAutoDaily`
 - `QStory`   
 
-这些都能够在[这里](https://www.123pan.com/s/4vaiVv-hixzH.html)下载到
+这些都能够在[这里](https://www.123pan.com/s/4vaiVv-hixzH.html)下载到   
+不过都是旧版，如果要使用，请自己下载最新版本。
 :::
 
 ---
