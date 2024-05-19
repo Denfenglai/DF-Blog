@@ -29,7 +29,8 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: '<a href="https://app.netlify.com/sites/dengfenglaiblog/deploys"><img src="https://api.netlify.com/api/v1/badges/bc03644e-1ff9-4bda-9f24-a5cb3643b2b4/deploy-status" alt="Netlify Status"></a>',
+  // 自定义脚页
+  footer: '<script defer src="https://cloud.umami.is/script.js" data-website-id="ef51c282-79b3-4121-873b-1c81afc89449"></script>',
   
   // 显示脚页
   displayFooter: true,
