@@ -10,4 +10,11 @@ export default defineUserConfig({
 
   theme,
 
+  head: [
+    ['script', { 
+      src: 'https://cloud.umami.is/script.js', 
+      defer: true, 
+      'data-website-id': 'ef51c282-79b3-4121-873b-1c81afc89449' 
+    }]
+  ],
 });
