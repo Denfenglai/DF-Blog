@@ -30,7 +30,7 @@ export default hopeTheme({
   sidebar,
 
   // 自定义脚页
-  footer: '<script src="https://api.suyanw.cn/api/mouse/yinghua.js"/></script>',
+  // footer: '<script src="https://api.suyanw.cn/api/mouse/yinghua.js"/></script>',
   
   // 显示脚页
   displayFooter: true,
