@@ -9,25 +9,15 @@ heroText: 等风来
 heroFullScreen: true
 tagline: 「爱意随风起，风止意难平」
 projects:
-  - icon: project
-    name: 原神！启动！
-    desc: 我去！原！
-    link: https://ys.mihoyo.com/
-
   - icon: link
     name: Yenai-Plugin
     desc: 椰羊的奶
-    link: https://gitee.com/yeyang52/yenai-plugin
+    link: https://yenai.trss.me
 
   - icon: friend
     name: Yunzai-Bot文档
     desc: XxxX
     link: https://yunzai.icu/
-
-  - icon: link
-    name: Yunzai-Bot索引库
-    desc: 收集 Yunzai-Bot 的相关内容
-    link: https://gitee.com/yhArcadia/Yunzai-Bot-plugins-index
 
   - icon: friend
     name: TRSS-Script
