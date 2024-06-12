@@ -7,31 +7,42 @@ tag:
   - Linux
   - Termux
 ---
+
 # Termux上安装Linux容器
+
 <!-- more -->
->在这之前请先确保已安装Termux或ZeroTermux   
->[<HopeIcon icon="article" />点击前往安装](./termux.md)   
+
+> 在这之前请先确保已安装Termux或ZeroTermux  
+> [<HopeIcon icon="article" />点击前往安装](./termux.md)
 
 ### 1.更新软件源
+
 ```bash
 apt update
 ```
+
 ### 2.安装依赖软件包
+
 ```bash
 apt install proot git python -y
 ```
+
 ### 3.克隆脚本仓库到本地
+
 ```bash
-cd ~/ 
+cd ~/
 git clone https://gitee.com/DengFengLai-F/termux-install-linux.git
 ```
+
 ### 4.运行脚本
+
 ```bash
 cd ~/termux-install-linux
 python termux-linux-install.py
 ```
+
 ![](/img/linux.jpg)
-输入你需要的安装的系统对应的数字回车就行了  
+输入你需要的安装的系统对应的数字回车就行了
 
 ### Ubuntu
 
@@ -59,14 +70,15 @@ cd ~/Termux-Linux/Debian
 ```
 
 ::: tip 进阶用法
-可以通过设置命令别名的方式从而达到快速启动容器的效果   
+可以通过设置命令别名的方式从而达到快速启动容器的效果  
 这里以Ubuntu为例：
+
 ```bash
 echo "alias u='~/Termux-Linux/Ubuntu/start-ubuntu.sh'" >> ~/.bashrc
 ```
+
 设置完成后重启终端就可以用`u`命令快速启动了，命令名称和启动路径按需求修改就行。
 :::
-
 
 ## 参考贡献
 

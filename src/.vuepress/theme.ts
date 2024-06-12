@@ -14,7 +14,7 @@ export default hopeTheme({
     url: "https://www.dengfenglai.icu/",
   },
 
-    iconAssets: "iconfont", // 指定图标选项
+  iconAssets: "iconfont", // 指定图标选项
   // iconAssets: "fontawesome-with-brands",
 
   logo: "/logo.png",
@@ -31,7 +31,7 @@ export default hopeTheme({
 
   // 自定义脚页
   // footer: '<script src="https://api.suyanw.cn/api/mouse/yinghua.js"/></script>',
-  
+
   // 显示脚页
   displayFooter: true,
 
@@ -44,10 +44,10 @@ export default hopeTheme({
       Baidu: "https://mr.baidu.com/r/19wFkMt0Gt2?f=cp&u=4d151be3e49afc29",
       BiliBili: "https://b23.tv/8sOJIMw",
       Discord: "https://discord.gg/VxqGvm5FKE",
-//      Email: "http://3139373986@qq.com",
+      //      Email: "http://3139373986@qq.com",
       Gitee: "https://gitee.com/DengFengLai-F",
       GitHub: "https://github.com/Denfenglai",
-//      Gmail: "http://dengfenglai547@gmail.com",
+      //      Gmail: "http://dengfenglai547@gmail.com",
       QQ: "http://qq.dengfenglai.cloud/",
     },
   },
@@ -67,47 +67,44 @@ export default hopeTheme({
     blog: true,
     /** 启动评论服务 */
     comment: {
-        provider: "Waline",
-        serverURL: "https://waline.dengfenglai.icu/",
-      },
+      provider: "Waline",
+      serverURL: "https://waline.dengfenglai.icu/",
+    },
     components: {
-        // 启用的组件
-        components: [
-          "BiliBili",
-          "VPCard",
-        ],
-      },
+      // 启用的组件
+      components: ["BiliBili", "VPCard"],
+    },
     copyCode: {
-        showInMobile: true //在移动端启用复制代码
-       }, 
-      mdEnhance: {
-        /* MdEnhance 插件配置
-         * https://theme-hope.vuejs.press/zh/config/plugins/md-enhance.html 
-         */
-        hint: true,	       // 提示容器
-        figure: true,      // 启用 figure 图片描述
-        imgLazyload: true, // 启用图片懒加载
-        imgMark: true,     // 启用图片标记
-        imgSize: true,     // 启用图片大小
-        codetabs: true,    // 多行代码块
-        mark: true,        //标记        
-        align: true,    // 自定义对齐
-        tasklist: true, // 任务列表
-        attrs: true,    // 属性支持
-        demo: true,     // 代码演示
-        include: true,  // 导入文件
-        footnote: true, // 启用脚注
-        sub: true,	    // 启用下角标
-        sup: true,	    // 启用上角标
-        tabs: true,     // 启用选项卡
-        vPre: true,     // 启用 v-pre 容器
+      showInMobile: true, //在移动端启用复制代码
+    },
+    mdEnhance: {
+      /* MdEnhance 插件配置
+       * https://theme-hope.vuejs.press/zh/config/plugins/md-enhance.html
+       */
+      hint: true, // 提示容器
+      figure: true, // 启用 figure 图片描述
+      imgLazyload: true, // 启用图片懒加载
+      imgMark: true, // 启用图片标记
+      imgSize: true, // 启用图片大小
+      codetabs: true, // 多行代码块
+      mark: true, //标记
+      align: true, // 自定义对齐
+      tasklist: true, // 任务列表
+      attrs: true, // 属性支持
+      demo: true, // 代码演示
+      include: true, // 导入文件
+      footnote: true, // 启用脚注
+      sub: true, // 启用下角标
+      sup: true, // 启用上角标
+      tabs: true, // 启用选项卡
+      vPre: true, // 启用 v-pre 容器
 
       playground: {
         presets: ["ts", "vue"],
       },
-      
+
       stylize: [
-      // 样式化
+        // 样式化
         {
           matcher: "Recommended",
           replacer: ({ tag }) => {
@@ -116,7 +113,7 @@ export default hopeTheme({
                 tag: "Badge",
                 attrs: { type: "tip" },
                 content: "Recommended",
-            };
+              };
           },
         },
       ],
