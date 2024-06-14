@@ -1,5 +1,5 @@
 ---
-icon: actions
+icon: video
 date: 2023-11-15
 category:
   - 日漫

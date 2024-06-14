@@ -14,9 +14,12 @@ export default hopeTheme({
     url: "https://www.dengfenglai.icu/",
   },
 
-  iconAssets: "iconfont", // 指定图标选项
-  // iconAssets: "fontawesome-with-brands",
-
+  /* 图标配置
+   * 参考：https://theme-hope.vuejs.press/zh/guide/interface/icon.html
+   * fontawesome图标列表：https://fontawesome.com/search?o=r&m=free
+   */
+  iconAssets: "fontawesome", 
+  
   logo: "/logo.png",
 
   repo: "Denfenglai/blog",
@@ -39,16 +42,17 @@ export default hopeTheme({
     roundAvatar: true,
     hotReload: true,
     avatar: "https://q1.qlogo.cn/g?b=qq&s=0&nk=3139373986",
-    intro: "/",
+    description: "爱意随风起，风止意难平.",
+    intro: "https://github.com/Denfenglai",
     medias: {
       Baidu: "https://mr.baidu.com/r/19wFkMt0Gt2?f=cp&u=4d151be3e49afc29",
       BiliBili: "https://b23.tv/8sOJIMw",
       Discord: "https://discord.gg/VxqGvm5FKE",
-      //      Email: "http://3139373986@qq.com",
+      Email: "mailto://3139373986@qq.com",
       Gitee: "https://gitee.com/DengFengLai-F",
       GitHub: "https://github.com/Denfenglai",
-      //      Gmail: "http://dengfenglai547@gmail.com",
-      QQ: "http://qq.dengfenglai.cloud/",
+      Gmail: "mailto://dengfenglai547@gmail.com",
+      QQ: "mqqapi://card/show_pslcard?src_type=internal&source=sharecard&version=1&uin=3139373986",
     },
   },
 

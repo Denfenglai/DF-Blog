@@ -1,7 +1,7 @@
 ---
 home: true
 layout: BlogHome
-icon: home
+icon: house
 bgImage: /img/picture/6.jpg
 bgImageDark: /img/picture/7.jpg
 title: 等风来

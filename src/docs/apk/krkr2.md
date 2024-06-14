@@ -1,5 +1,5 @@
 ---
-icon: app
+icon: gamepad
 title: Kirikiroid2模拟器
 date: 2024-04-12
 category:

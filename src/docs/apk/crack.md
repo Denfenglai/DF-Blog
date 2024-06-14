@@ -1,5 +1,5 @@
 ---
-icon: app
+icon: play
 title: 软件APP合集
 date: 2024-03-02
 category:

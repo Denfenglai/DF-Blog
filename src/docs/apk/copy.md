@@ -1,5 +1,5 @@
 ---
-icon: app
+icon: book
 title: 拷贝漫画 破解版
 date: 2024-03-03
 category:
@@ -12,7 +12,7 @@ tag:
 
 <!-- more -->
 
-<!-- @include: ./crack.md{18-23} -->
+<!-- @include: ./crack.md{18-25} -->
 
 ---
 

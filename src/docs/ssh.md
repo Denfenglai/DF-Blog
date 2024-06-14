@@ -1,5 +1,5 @@
 ---
-icon: storage
+icon: cloud
 date: 2024-02-18
 category:
   - 云服务器

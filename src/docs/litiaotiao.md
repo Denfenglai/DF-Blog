@@ -1,5 +1,5 @@
 ---
-icon: app
+icon: play
 date: 2024-02-19
 category:
   - 手机

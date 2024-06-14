@@ -1,5 +1,5 @@
 ---
-icon: module
+icon: wrench
 title: QQ模块的使用
 date: 2024-02-21
 category:

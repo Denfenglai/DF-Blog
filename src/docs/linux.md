@@ -1,5 +1,6 @@
 ---
-icon: linux
+icon: user
+title: Termux安装Linux容器
 date: 2024-02-18
 category:
   - 手机
@@ -8,12 +9,10 @@ tag:
   - Termux
 ---
 
-# Termux上安装Linux容器
-
 <!-- more -->
 
 > 在这之前请先确保已安装Termux或ZeroTermux  
-> [<HopeIcon icon="article" />点击前往安装](./termux.md)
+> [点击前往安装](./termux.md)
 
 ### 1.更新软件源
 

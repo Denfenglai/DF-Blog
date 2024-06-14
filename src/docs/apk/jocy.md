@@ -1,5 +1,5 @@
 ---
-icon: app
+icon: video
 title: 囧次元 破解版
 date: 2024-03-02
 category:
@@ -12,7 +12,7 @@ tag:
 
 <!-- more -->
 
-<!-- @include: ./crack.md{18-24} -->
+<!-- @include: ./crack.md{18-25} -->
 
 ---
 

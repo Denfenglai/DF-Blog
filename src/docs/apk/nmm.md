@@ -1,5 +1,5 @@
 ---
-icon: app
+icon: play
 title: NMM文件管理器
 date: 2024-05-25
 article: true
