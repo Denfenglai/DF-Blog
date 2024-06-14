@@ -66,7 +66,7 @@ background="rgba(255, 182, 193, 0.2)"
 
 内含大量GalGame游戏资源，不乏PC和PE的游戏资源，只需注册登录即可免费下载，当然还是建议支持正版。
 
-<!-- @include: ./crack.md{28-} -->
+<!-- @include: ./crack.md{31-} -->
 
 ## ✨鸣谢
 

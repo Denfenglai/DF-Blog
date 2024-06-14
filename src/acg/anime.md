@@ -88,4 +88,4 @@ background="rgba(255, 182, 193, 0.2)"
 - 缺点：有广告
 - 综合评价：⭐⭐⭐⭐
 
-<!-- @include: ../docs/apk/crack.md{25-} -->
+<!-- @include: ../docs/apk/crack.md{27-} -->
