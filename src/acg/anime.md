@@ -13,17 +13,34 @@ tag:
 <!-- more -->
 
 <VPCard
-title="樱花动漫"
-desc="专注动漫的门户网站"
-logo="http://m.iyinghua.io/js/20180601/favicon.ico"
-link="http://m.iyinghua.io/"
+title="囧次元"
+desc="原樱花动漫APP"
+logo="https://p0.qhimg.com/t0197960b4a26c3b9a2.png"
+link="//jocy.tv/"
+background="rgba(243, 170, 114, 0.31)"
+/>
+
+- 类型：APP
+- 优点：速度快，资源全，可缓存
+- 缺点：弹幕社区氛围较差，每集都要看广告，But可以看一次广告领取vip
+- 推荐指数：⭐⭐⭐⭐  
+
+- 其他：[囧次元去广告版](/docs/apk/jocy.md)
+
+---
+
+<VPCard
+title="OmoFun"
+desc="不知道哪个是原版了"
+logo="//pic1.zhimg.com/80/v2-590986d0c3809b130e453b2907daaa9c_1440w.png"
+link="//omoget.com/"
 background="rgba(255, 182, 193, 0.2)"
 />
 
-- 类型：Web
-- 优点：资源免费，可直开
-- 缺点：带宽略慢，广告特别多
-- 推荐指数：⭐⭐
+- 类型：APP
+- 优点：UI精美，资源较全，速度快，支持iOS
+- 缺点：有广告
+- 推荐指数：⭐⭐⭐⭐
 
 ---
 
@@ -31,7 +48,7 @@ background="rgba(255, 182, 193, 0.2)"
 title="次元城动漫"
 desc="充满对另一个世界的无尽幻想！"
 logo="//npm.elemecdn.com/cycjs1@1.1.6/static/img/site.webp"
-link="//www.cycdm01.top/"
+link="https://www.cycanime.com/"
 background="rgba(192, 192, 192, 0.3)"
 />
 
@@ -59,38 +76,6 @@ background="rgba(255, 182, 193, 0.2)"
 ---
 
 <VPCard
-title="囧次元"
-desc="原樱花动漫APP"
-logo="https://p0.qhimg.com/t0197960b4a26c3b9a2.png"
-link="//jocy.tv/"
-background="rgba(243, 170, 114, 0.31)"
-/>
-
-- 类型：APP
-- 优点：速度快，资源全，可缓存
-- 缺点：弹幕社区氛围较差，每集都要看广告，But可以看一次广告领取vip
-- 推荐指数：⭐⭐⭐⭐  
-
-- [囧次元破解版](/docs/apk/jocy.md)
-
----
-
-<VPCard
-title="OmoFun"
-desc="不知道哪个是原版了"
-logo="//pic1.zhimg.com/80/v2-590986d0c3809b130e453b2907daaa9c_1440w.png"
-link="//omoget.com/"
-background="rgba(255, 182, 193, 0.2)"
-/>
-
-- 类型：APP
-- 优点：UI精美，资源较全，速度快，支持iOS
-- 缺点：有广告
-- 推荐指数：⭐⭐⭐⭐
-
----
-
-<VPCard
 title="AGE动漫"
 desc="追番更有爱~"
 logo="https://m.agedm.org/favicon.ico"
@@ -104,5 +89,20 @@ background="rgba(120, 118, 247, 0.2)"
 - 推荐指数：⭐⭐⭐
 
 ---
+
+
+<VPCard
+title="樱花动漫"
+desc="专注动漫的门户网站"
+logo="http://m.iyinghua.io/js/20180601/favicon.ico"
+link="http://m.iyinghua.io/"
+background="rgba(255, 182, 193, 0.2)"
+/>
+
+- 类型：Web
+- 优点：资源免费，可直开
+- 缺点：带宽略慢，广告特别多
+- 推荐指数：⭐⭐
+
 
 <!-- @include: ../docs/apk/crack.md{27-} -->
