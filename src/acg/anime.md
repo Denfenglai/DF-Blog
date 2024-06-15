@@ -61,9 +61,9 @@ background="rgba(255, 182, 193, 0.2)"
 <VPCard
 title="囧次元"
 desc="原樱花动漫APP"
-logo="/logo/jocy.png"
+logo="https://p0.qhimg.com/t0197960b4a26c3b9a2.png"
 link="//jocy.tv/"
-background="rgba(128, 128, 128, 0.55)"
+background="rgba(243, 170, 114, 0.31)"
 />
 
 - 类型：APP
