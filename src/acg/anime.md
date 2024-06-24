@@ -8,6 +8,8 @@ tag:
   - 好用
   - ACG
   - 免费
+star: true
+sticky: 300
 ---
 
 <!-- more -->
