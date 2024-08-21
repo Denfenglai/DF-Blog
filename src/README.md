@@ -2,22 +2,17 @@
 home: true
 layout: BlogHome
 icon: house
-bgImage: /img/picture/6.jpg
-bgImageDark: /img/picture/7.jpg
+bgImage: /img/bgImage.jpg
+bgImageDark: /img/bgImageDark.jpg
 title: 等风来
 heroText: 等风来
 heroFullScreen: true
 tagline: 「爱意随风起，风止意难平」
 projects:
   - icon: link
-    name: Yenai-Plugin
-    desc: 椰羊的奶
+    name: DF-Plugin
+    desc: Yunzai-Bot拓展插件
     link: https://yenai.trss.me
-
-  - icon: friend
-    name: Yunzai-Bot文档
-    desc: XxxX
-    link: https://yunzai.icu/
 
   - icon: friend
     name: TRSS-Script
