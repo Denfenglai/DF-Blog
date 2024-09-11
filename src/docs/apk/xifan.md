@@ -18,7 +18,7 @@ tag:
 
 ### 下载安装包
 
-[123云盘](https://www.123pan.com/s/4vaiVv-WjxzH.html) | [备用下载](/apk/稀饭动漫.apk)
+[123云盘](https://www.123pan.com/s/4vaiVv-WjxzH.html) | [备用下载](/apk/稀饭动漫_3.3.1.apk)
 
 ::: warning
 当前版本：`3.1.5`  
